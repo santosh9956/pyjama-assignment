@@ -1,3 +1,7 @@
+Here is the project output screenshot - 
+<img width="1680" alt="Screenshot 2023-09-29 at 1 03 00 PM" src="https://github.com/santosh9956/pyjama-assignment/assets/76210120/00397496-5688-470b-ac72-86a7fd740351">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
